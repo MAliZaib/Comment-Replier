@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1 , 
+        "parent_id": null ,
+        "comment" : "This is the parent comment"
+    },
+    {
+        "id": 4 , 
+        "parent_id" : null  ,
+        "comment" : "This is the comment 4"
+    },
+    {
+        "id": 3 , 
+        "parent_id" : 2  ,
+        "comment" : "This is the child child component..."
+    },
+    {
+        "id": 2 , 
+        "parent_id" : 1  ,
+        "comment" : "This is the child component..."
+    }
+]
